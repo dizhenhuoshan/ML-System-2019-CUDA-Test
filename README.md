@@ -1,6 +1,6 @@
 # Assignment Bonus: GPU CUDA Test
 
-[PPCA 2019](https://acm.sjtu.edu.cn/wiki/PPCA_2019) machine learning system
+[PPCA 2019](https://acm.sjtu.edu.cn/wiki/PPCA_2019) machine learning system Bonus - *CUDA*
 
 In this assignment, we would implement some GPU kernel for ML System.
 
