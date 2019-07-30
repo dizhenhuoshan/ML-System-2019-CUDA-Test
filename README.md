@@ -8,9 +8,9 @@ Key concepts and data structures that we would need to implement are
 - GPU kernel implementations of common kernels, e.g. Relu, MatMul, Softmax.
 
 ## Overview of Module
-- python/dlsys/autodiff.py: Implements computation graph, autodiff, GPU/Numpy Executor.
-- python/dlsys/gpu_op.py: Exposes Python function to call GPU kernels via ctypes.
-- python/dlsys/ndarray.py: Exposes Python GPU array API.
+- tests/dlsys/autodiff.py: Implements computation graph, autodiff, GPU/Numpy Executor.
+- tests/dlsys/gpu_op.py: Exposes Python function to call GPU kernels via ctypes.
+- tests/dlsys/ndarray.py: Exposes Python GPU array API.
 
 - src/dlarray.h: header for GPU array.
 - src/c_runtime_api.h: C API header for GPU array and GPU kernels.
