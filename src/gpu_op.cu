@@ -1,7 +1,6 @@
 #include "./c_runtime_api.h"
 #include <cassert>
 #include <cstdio>
-#include <cublas_v2.h>
 #include <cuda_runtime.h>
 
 /* TODO: Your code here */
