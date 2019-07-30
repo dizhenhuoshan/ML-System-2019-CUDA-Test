@@ -1,6 +1,8 @@
-# Assignment 2: GPU Graph Executor
+# Assignment Bonus: GPU CUDA Test
 
-In this assignment, we would implement a GPU graph executor.
+[PPCA 2019](https://acm.sjtu.edu.cn/wiki/PPCA_2019) machine learning system
+
+In this assignment, we would implement some GPU kernel for ML System.
 
 Key concepts and data structures that we would need to implement are
 - GPU kernel implementations of common kernels, e.g. Relu, MatMul, Softmax.
